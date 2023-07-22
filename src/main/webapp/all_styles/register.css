@@ -1,0 +1,48 @@
+
+.reg_form input{
+	width: 550px;
+	height: 35px;
+	background: transparent;
+	border-bottom: 1px solid #ff7200;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	color: #fff;
+	font-size: 20px;
+	letter-spacing: 1px;
+	margin-top: 50px;
+	font-family: sans-serif; 
+}
+.reg_form input:focus{
+	outline: none;
+}
+::placeholder{
+	color: #fff;
+	font-family: Arial;
+}
+.reg_form .form-check .form-check-input{
+	size: 10px;
+}
+.btn_r{
+	width: 160px;
+	height: 40px;
+	background: #ff7200;
+	border: none;
+	cursor: pointer;
+	margin-top: 15px;
+	font-size: 20px;
+	border-radius: 10px;
+	/*color: #fff;*/
+	transition: 0.4s ease;
+	margin-left: 190px;
+}
+/*.btn_r:hover{
+	background: #fff;
+	color: #ff7200;
+}*/
+/*.btn_r a{
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+*/
